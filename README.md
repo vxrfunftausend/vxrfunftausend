@@ -6,3 +6,4 @@
 - Tyumen
 - Designer
 
+> **Novus via lux est**
