@@ -6,7 +6,9 @@
 - Tyumen
 - Designer
 
+![](https://media.discordapp.net/attachments/906537924999405568/1352189976489627708/latest.png?ex=67dd1c8c&is=67dbcb0c&hm=1e12bf186fb9ed56c19795503c149bc6689d797b87444350c2c1af92edf45e47&=&format=webp&quality=lossless)
 > **Novus via lux est**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vxrfunftausend)](https://github.com/vxrfunftausend/github-readme-stats) [](https://media.discordapp.net/attachments/896439469589270528/1338436656398864434/image.png?ex=67dc8405&is=67db3285&hm=ad2906ec02ef795ff487ecc782ebf059fdce5ff41cfecf95d574342da1edad75&=&format=webp&quality=lossless&width=968&height=968)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vxrfunftausend)](https://github.com/vxrfunftausend/github-readme-stats)
+
 
